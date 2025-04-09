@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "nome": "Prof. Dr. João Silva",
+        "especialidade": "Matemática"
+    },
+    {
+        "id": 2,
+        "nome": "Prof.ª Maria Oliveira",
+        "especialidade": "Física"
+    },
+    {
+        "id": 3,
+        "nome": "Prof. Carlos Santos",
+        "especialidade": "Química"
+    },
+    {
+        "id": 4,
+        "nome": "Prof.ª Ana Costa",
+        "especialidade": "Biologia"
+    },
+    {
+        "id": 5,
+        "nome": "Prof. Ricardo Almeida",
+        "especialidade": "História"
+    }
+]

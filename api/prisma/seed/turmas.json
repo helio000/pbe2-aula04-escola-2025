@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nome": "Licenciatura em Matemática",
+        "ano": 2024
+    },
+    {
+        "id": 2,
+        "nome": "Licenciatura em Física",
+        "ano": 2024
+    },
+    {
+        "id": 3,
+        "nome": "Licenciatura em Química",
+        "ano": 2025
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "ra":"A01",
+        "nome":"Simone Moraes",
+        "nascto":"1990-01-01T00:00:00.000Z"
+    },
+    {
+        "ra":"A02",
+        "nome":"Marcos Paulo",
+        "nascto":"1991-01-13T00:00:00.000Z"
+    },
+    {
+        "ra":"A03",
+        "nome":"Ana Maria",
+        "nascto":"1993-03-10T00:00:00.000Z"
+    },
+    {
+        "ra":"A04",
+        "nome":"Carlos Alberto",
+        "nascto":"1995-08-25T00:00:00.000Z"
+    },
+    {
+        "ra":"A05",
+        "nome":"Fernanda Lima",
+        "nascto":"1999-03-23T00:00:00.000Z"
+    },
+    {
+        "ra":"A06",
+        "nome":"Roberto Carlos",
+        "nascto":"1992-05-15T00:00:00.000Z"
+    },
+    {
+        "ra":"A07",
+        "nome":"Juliana Santos",
+        "nascto":"1994-07-30T00:00:00.000Z"
+    },
+    {
+        "ra":"A08",
+        "nome":"Ricardo Gomes",
+        "nascto":"1996-09-12T00:00:00.000Z"
+    },
+    {
+        "ra":"A09",
+        "nome":"Patrícia Alves",
+        "nascto":"1998-11-20T00:00:00.000Z"
+    },
+    {
+        "ra":"A10",
+        "nome":"Eduardo Costa",
+        "nascto":"1990-12-05T00:00:00.000Z"
+    },
+    {
+        "ra":"A11",
+        "nome":"Tatiane Ferreira",
+        "nascto":"1991-02-18T00:00:00.000Z"
+    },
+    {
+        "ra":"A12",
+        "nome":"Lucas Martins",
+        "nascto":"1993-04-22T00:00:00.000Z"
+    },
+    {
+        "ra":"A13",
+        "nome":"Mariana Silva",
+        "nascto":"1995-06-30T00:00:00.000Z"
+    },
+    {
+        "ra":"A14",
+        "nome":"André Souza",
+        "nascto":"1997-08-14T00:00:00.000Z"
+    },
+    {
+        "ra":"A15",
+        "nome":"Vanessa Lima",
+        "nascto":"1999-10-28T00:00:00.000Z"
+    }
+]
